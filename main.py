@@ -1,3 +1,5 @@
 a=5
 b=8
-print(a,b)
+c=7
+k=2
+print(a,k)
